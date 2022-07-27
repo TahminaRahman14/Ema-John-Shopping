@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My First React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Ema John Shopping](https://ema-john-shopping27.netlify.app/).
 
 ## Available Scripts
 
