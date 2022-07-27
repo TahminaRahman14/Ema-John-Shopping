@@ -1,6 +1,6 @@
 # My First React App
 
-[Ema John Shopping](https://ema-john-shopping27.netlify.app/).
+[Ema John Shopping website link](https://ema-john-shopping27.netlify.app/).
 
 ## Available Scripts
 
